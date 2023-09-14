@@ -31,6 +31,10 @@
 *.out
 *.app
 
+./cmake-build-debug
+
+./idea
+
 .idea/.name
 
 .idea/codeStyles/codeStyleConfig.xml
