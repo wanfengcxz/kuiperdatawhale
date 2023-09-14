@@ -31,25 +31,10 @@
 *.out
 *.app
 
-./cmake-build-debug
+cmake-build-debug
 
-./idea
+.idea
 
-.idea/.name
-
-.idea/codeStyles/codeStyleConfig.xml
-
-.idea/deployment.xml
-
-.idea/kuiperdatawhale.iml
-
-.idea/misc.xml
-
-.idea/modules.xml
-
-.idea/other.xml
-
-.idea/vcs.xml
 
 build
 
